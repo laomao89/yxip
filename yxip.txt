@@ -24,6 +24,6 @@
 104.21.113.74:443#San Jose
 172.67.188.12:443#Seattle
 104.19.167.49:443#Seattle
-shopify.com:443#Seattle
-icook.tw:443#Seattle	
-ip.sb:443#Seattle
+shopify.com:443#Sea
+icook.tw:443#Sea
+ip.sb:443#Sea
